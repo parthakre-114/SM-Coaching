@@ -1,0 +1,141 @@
+
+
+.sir_img
+{
+    position:absolute;
+    margin-top: 5px;
+    margin-left: 43px;
+    width: 380px;
+    height: 430px;
+    padding: 2px;
+    
+   
+}
+
+
+.information
+{
+    text-align:left;
+    margin-left: 480px;
+    margin-top: 900px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: none;
+    font-size: 30px;
+}
+
+.name
+{
+    margin-top: 40px;
+    margin-left: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    
+}
+
+.button_div
+{
+    width:1521px;
+    height: 70px;
+    background-color: #1E2640;
+}
+
+.button
+{
+    width: 150px;
+    height: 50px;
+    padding: none;
+    margin-left: 680px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color:red;
+    margin-top: 10px;
+    cursor:pointer;
+    border: none;
+    text-decoration: none;
+}
+
+.line_div
+{
+    width: 1521px;
+    height: 7px;
+    background-color: wheat;
+}
+
+.footer
+{
+    width: 1521px;
+    height: 200px;
+    background-color: black;
+    color: wheat;
+}
+.loci
+{
+    position: relative;
+    margin-left: 100px;
+    top:20px;
+}
+.phone
+{
+    position: relative;
+    margin-left: 95px;
+}
+.email
+{
+    position: relative;
+    margin-left: 95px;
+}
+.text1
+{
+    bottom: 20px;
+   position: relative;
+margin-left: 150px;
+font-size: 13px;
+}
+.text2
+{
+    bottom: 40px;
+    position: relative;
+    margin-left: 150px;
+    font-size: 17px;
+}
+.text3
+ {
+    bottom: 35px;
+   position: relative;
+margin-left: 150px;
+font-size: 15px;
+}
+.text4
+{
+    position:absolute;
+    color: wheat;
+    margin-top:-150px; 
+    margin-left: 900px;
+}
+.about
+{
+    position:absolute;
+    color: wheat;
+    margin-top:-190px; 
+    margin-left: 900px;
+}
+.facebook
+{  position: relative;
+    float: right;
+    margin-right: 580px;
+    margin-top:-120px;
+}
+.twitter
+{
+    position: relative;
+    float: right;
+    margin-right: 520px;
+    margin-top:-120px;
+}
+.whatsapp
+{
+    position: relative;
+    float: right;
+    margin-right: 460px;
+    margin-top:-120px;
+}

@@ -1,0 +1,70 @@
+
+
+* {
+    margin-top: 0vw;
+    margin-left: 0vw;
+}
+
+#header {
+    background-color: #1E2640;
+    height: 9vw;
+    width: 100vw;
+    margin-top: 0vw;
+}
+
+.logo {
+    height: 6.5vw;
+    width: 8vw;
+    float: left;
+    margin-left: 0.5vw;
+    margin: 0.5vw;
+}
+
+.swami {
+    height: 9vw;
+    width: 11vw;
+    float: right;
+    margin-right: 1vw;
+    margin-top: 0vw;
+}
+
+.sir_name
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1vw;
+    float: right;
+    margin-right: 67vw;
+    margin-bottom: 0vw;
+    padding-bottom: 0vw;
+    font-size: 1vw;
+    font-weight: 1200;
+    color: white;
+}
+
+.coaching_name
+{
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 0vw;
+    margin-bottom: 0vw;
+    padding-bottom: 0vw;
+    font-size: 6vw;
+    font-weight: 800;
+    color: wheat;
+
+    
+}
+
+.medium
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
+    margin-right: 4vw;
+    margin-bottom: 2vw;
+    padding-bottom: 0vw;
+    height:fit-content;
+    font-size:2vw;
+    font-weight: 800;
+    color:yellow;
+    
+}

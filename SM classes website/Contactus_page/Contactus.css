@@ -1,0 +1,125 @@
+
+.body
+{
+    background-color: rgb(207, 166, 173);
+}
+
+.right_side
+{
+    width: 590px;
+    height: 565px;
+    float: left;
+}
+
+
+.success
+{
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 80px;
+    color: rgb(52, 5, 85);
+    font-family: arial;
+}
+
+.mirror
+{
+    margin-left: 80px;
+    margin-top: 100px;
+    font-size: 80px;
+    color: rgb(52, 5, 85);
+    font-family: arial;
+}
+
+.future
+{
+    margin-left: 80px;
+    margin-top: 100px;
+    font-size: 80px;
+    color: rgb(52, 5, 85);
+    font-family: arial;
+}
+
+.left_side
+{
+    float: right;
+    width: 500px;
+    height: 600px;
+    margin-right: 90px;
+}
+
+.address
+{
+    color: rgb(212, 65, 156);
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.fulladdress
+{
+    font-size: 20px;
+    margin-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.phone
+{
+    color: rgb(212, 65, 156);
+    font-size: 30px;
+    margin-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.number
+{
+    font-size: 20px;
+    margin-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.email
+{
+    color: rgb(223, 39, 153);
+    font-size: 30px;
+    margin-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.email_id
+{
+    font-size: 20px;
+    margin-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.f_logo
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+}
+
+.t_logo
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.I_logo
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.y_logo
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
